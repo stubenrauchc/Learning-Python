@@ -11,8 +11,6 @@ array2 = 14, 15, 16, 17
 ## print(f"{array1}")
 ## print(f"{array2}")
 
-
-
 ## uncomment the two lines below for diagnostics
 ## print(f"{nom}")
 ## print(f"{st}")
@@ -50,5 +48,4 @@ while KD == 1:
         print("Peace out!")
         break
     elif KD > 2:
-        print("uh oh, that's not a 1 or 2, RUN AWAY")
-    
+        print("uh oh, that's not a 1 or 2, Exiting Now")
